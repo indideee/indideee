@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hiya 👋
+I'm indideee, and I like to make software, which most of the time I don't finish.
 
-<!--
-**indideee/indideee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I mainly use
+* Rust
+* TypeScript
+* Go
+* C++
 
-Here are some ideas to get you started:
+on a **2020 MacBook Air M1**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm currently working on
+* [maybe](https://github.com/indideee/maybe), a stack-based language inspired by monty and forth.
